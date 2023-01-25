@@ -1,8 +1,8 @@
+import Home from "./src/home";
+
 const App = () => {
   return (
-    <div className="App">
-      
-    </div>
+    <Home />
   );
 }
 
